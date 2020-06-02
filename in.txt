@@ -1,0 +1,75 @@
+
+void method(int x){
+	if (x < 1){
+		x = x + 4;
+	}
+	x = x * 4.3 + 5.4;
+}
+
+float square(float x){
+	x = x + 11;
+	return x * x;
+}
+
+int a;
+int b;
+float c;
+double e;
+double d;
+
+List<> list = new ArrayList<>();
+
+for (m : list){
+	a = a + m;
+	c = a - c * 33.5;
+}
+
+list = new ArrayList<>();
+
+
+
+if (a > 0 && c < 0) {
+	b = 4 + 1;
+	a++;
+	List<> list1 = new LinkedList<>();
+	if (b == 2){
+		b = b + 1;
+		c = a + 2;
+	}
+	c = c + 2;
+	while (c >= 10)
+		c = c + 4;
+	d = a + 1;
+}
+else {
+	ArrayList<> list2 = new ArrayList<>();
+	b = (b * (7 + 3)) * c - 8;
+	a = c + (b + 4);
+}
+
+System.out.print("ceva de afisat");
+
+LinkedList<> list3 = new LinkedList<>();
+
+int val = 12;
+int i;
+
+while (c >= 10)
+	c += b * (a + 4);
+
+int a = 0;
+double c = 12.5;
+short b = 2;
+
+while (a < 100){
+	a++;
+	b = b * 5;
+}
+
+for (i = 0; i < 5; i++)
+	b = b + 4 * (2 + a);
+
+for (i = 3; i < 200; i++){
+	b = b + 4;
+	c++;
+}
